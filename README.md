@@ -2,6 +2,11 @@
 
 [cite_start]Bu proje, **Kastamonu Üniversitesi Tosya Meslek Yüksekokulu** "Programlama II" dersi dönem sonu ödevi kapsamında geliştirilmiştir[cite: 1, 2, 3]. [cite_start]Proje, Nesne Tabanlı Programlama (OOP) ilkelerine bağlı kalarak modüler bir mimariyle tasarlanmış bir masaüstü mağaza yönetim sistemidir[cite: 6, 20].
 
+## takım üyeleri
+* ibrahim efe keskin
+* alişan tayfur
+* samet aydın
+
 ##  Proje Hakkında
 SmartStore; kullanıcıların kayıt olabildiği, giriş yaparak mağazadaki ürünleri görüntüleyebildiği ve stok kontrolü eşliğinde alışveriş yapabildiği bir yazılımdır. [cite_start]Yazılımın temel amacı, teorik OOP bilgilerini (Kalıtım, Kapsülleme vb.) pratik bir yazılım ürününe dönüştürmektir[cite: 4, 5, 20].
 
